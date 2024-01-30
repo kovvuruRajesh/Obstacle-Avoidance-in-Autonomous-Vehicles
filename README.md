@@ -20,4 +20,10 @@
 <p>I employed ROS 2 to integrate YOLOv8 with LiDAR data, enabling robust real-time object detection in a robotic system. Leveraging ROS 2's capabilities for sensor data fusion, I synchronized LiDAR scans with YOLOv8's object detection algorithms, allowing the robot to detect and track objects accurately in its surroundings. This integration empowered the robot with enhanced situational awareness, enabling it to navigate and interact with its environment more effectively.</p>
 
 <img src="Images/img1.jpg" >
+<img src="Images/img2.jpg" >
+<img src="Images/img3.jpg" >
+<img src="Images/img4.jpg" >
+<img src="Images/img5.jpg" >
+<img src="Images/img6.jpg" >
+
 
