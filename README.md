@@ -13,5 +13,8 @@ Obstacle Avoidance in Autonomous Vehicles
 </ul>
 <h1>Methodology</h1>
 <h2>Dataset</h2>
-<p>We used YOLOv8 algorithm to detect objects for this we used Custom Dataset, For that Dataset we took images from Google Open Image Dataset</p>
+<p>We used YOLOv8 algorithm to detect objects for this we used Custom Dataset, For that Dataset we took images from</p>
 <a href="https://storage.googleapis.com/openimages/web/index.html">Google Open Image Dataset</a>
+<h2>Real Time Implementation of Deep Learning Algorithms</h2>
+<h3>Simulation of ROS2</h3>
+
