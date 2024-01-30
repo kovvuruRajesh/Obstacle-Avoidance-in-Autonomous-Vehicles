@@ -1,5 +1,5 @@
 # Obstacle-Avoidance-in-Autonomous-Vehicles
-Obstacle Avoidance in Autonomous Vehicles
+<img src="https://ksra.eu/wp-content/uploads/2020/06/cars16.jpg" >
 <h1>Abstract</h1>
 <p>Humans are habituated to using vehicles, drones, robots, etc. They face issues like obstacles, so we use Collision avoidance. Collision avoidance is essential to autonomous systems in various industries like autonomous vehicles, robotics, and industrial automation. Effective Collision avoidance systems are crucial to enhancing safety and preventing accidents. We will highlight real-world collision avoidance applications, from self-driving cars navigating complex urban environments.</p>
 <h1>Introduction</h1>
@@ -18,4 +18,6 @@ Obstacle Avoidance in Autonomous Vehicles
 <h2>Real Time Implementation of Deep Learning Algorithms</h2>
 <h3>Simulation of ROS2</h3>
 <p>I employed ROS 2 to integrate YOLOv8 with LiDAR data, enabling robust real-time object detection in a robotic system. Leveraging ROS 2's capabilities for sensor data fusion, I synchronized LiDAR scans with YOLOv8's object detection algorithms, allowing the robot to detect and track objects accurately in its surroundings. This integration empowered the robot with enhanced situational awareness, enabling it to navigate and interact with its environment more effectively.</p>
+
+<img src=""
 
